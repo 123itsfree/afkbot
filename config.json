@@ -1,0 +1,9 @@
+{
+	"ip":"play.craftersrealms.fun",
+	"port": 25565,
+	"name": "NubGamer69",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Chinibab@12 Chinibab@12",
+	"login-cmd":"/login Chinibab@12"
+}
